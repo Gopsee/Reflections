@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A repository is created for the version control system.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging Area is temperory space where the files are placed before commit. It offers flexibility to what is being committed.
